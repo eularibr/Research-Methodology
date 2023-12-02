@@ -4,13 +4,13 @@
 
 # 1.1 **Processos de pesquisa**
 
-![Untitled](Inteli%20Research%207361a4ec227b47d5a60de887cbcc27a9/Untitled.png)
+![Untitled](https://github.com/eularibr/Research-Methodology/blob/main/assets/Untitled.png)
 
 1. O que fazer
 2. Como fazer
 3. Fazendo
 
-![Untitled](Inteli%20Research%207361a4ec227b47d5a60de887cbcc27a9/Untitled%201.png)
+![Untitled](https://github.com/eularibr/Research-Methodology/blob/main/assets/Untitled%201.png)
 
 1. Research Problem
 2. Research Design
@@ -118,7 +118,7 @@
 
 ### 1.2.4 Critérios para a realização de pesquisas
 
-![Untitled](Inteli%20Research%207361a4ec227b47d5a60de887cbcc27a9/Untitled%202.png)
+![Untitled](https://github.com/eularibr/Research-Methodology/blob/main/assets/Untitled%202.png)
 
 **Critérios para a Realização de Pesquisas:**
 
